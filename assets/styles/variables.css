@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #FFFFFF;
+    --contacts-color: #232323;
+    --button-color: #FF8B00;
+    --accent-color: #7050E5;
+    --services-color: #F8F8F8;
+    --grid-color: #878787;
+    --footer-color: #363636;
+    --news-color: #5634D1;
+    --string-color: #999999;
+    --date-color: #555555;
+    --tape-color: #252525;
+    --delay: .25s all ease-in-out;
+}
